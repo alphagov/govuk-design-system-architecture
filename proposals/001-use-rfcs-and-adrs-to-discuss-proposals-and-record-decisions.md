@@ -15,7 +15,7 @@ We need to make and record decisions in the open, because:
 - it will help us to answer questions from our users as to why things are the
   way they are
 - it makes it less likely that approaches will be changed in the future without
-  a full understanding of the context or the rational for the original decision
+  a full understanding of the context or the rationale for the original decision
 - it provides a valuable resource to others, both in government and the wider
   community, who are embarking on similar projects
 
