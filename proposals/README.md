@@ -32,9 +32,12 @@ of the change are fully thought-out.
 
 ## Rejecting proposals
 
-A proposal can be rejected. This can happen if a consensus isn’t reached, or
-people agree rejecting it is the right thing to do. In this case the PR should
-be closed with a suitable comment.
+A proposal can be rejected by the Design System team. This can happen for many
+reasons, including if a consensus isn’t reached, or if people agree that
+rejecting it is the right thing to do. It might be that there are already plans
+to address a given problem in a different way, or that it's just not the right
+time to make the change. In this case the PR should be closed with a suitable
+comment.
 
 ## Recording changes
 
