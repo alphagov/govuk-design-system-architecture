@@ -34,7 +34,7 @@ We will use a simplified version of the existing Request for Comments (RFC)
 publication format as a platform for suggesting and refining ideas whilst
 involving the wider community.
 
-We will use the existing Architecture Decision Records (ARD) publication format
+We will use the existing Architecture Decision Records (ADR) publication format
 as a way to document decisions that have been made.
 
 We will use markdown for both of these publication types.
