@@ -16,3 +16,8 @@ There are 2 types of documentation:
   allow us and the wider community to suggest and refine ideas.
 - [Decision Records](/decision-records), which document decisions that have been
   made, along with any context.
+
+## Code of Conduct
+
+This project follows the ['alphagov' Github organisation's Code of Conduct]
+(https://github.com/alphagov/code-of-conduct).
