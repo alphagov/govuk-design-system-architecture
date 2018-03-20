@@ -43,3 +43,8 @@ We will aim to simplify the language where possible to reduce the barrier of
 entry to contribution and involvement. For example, we will refer to RFCs as
 proposals unless we are talking specifically about the format used; we will
 simplify 'architecture decision records' to 'decision records'.
+
+## Related links
+
+- [Inspiration: React RFCs](https://github.com/reactjs/rfcs)
+- [Inspiration: Swift Evolution](https://github.com/apple/swift-evolution)
