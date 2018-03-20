@@ -1,0 +1,20 @@
+# Decision Record Title
+<!-- The title should be a short present tense imperative phrase, less than 50
+     characters, like a git commit message. -->
+
+**Date:** <!-- YYYY-MM-DD -->
+
+**Status:** <!-- proposed, accepted, rejected, deprecated, superseded -->
+
+## Context
+
+<!-- What is the issue that we're seeing that is motivating this decision or
+     change. -->
+
+## Decision
+
+<!-- What is the change that we're actually proposing or doing. -->
+
+## Consequences
+
+<!-- What becomes easier or more difficult to do because of this change. -->
