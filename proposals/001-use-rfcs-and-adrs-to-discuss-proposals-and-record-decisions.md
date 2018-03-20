@@ -1,7 +1,7 @@
 # Use RFCs and ADRs to discuss proposals and record decisions
 
 **Closing date:** 2018-03-16
-**Status:** Proposed
+**Status:** Accepted
 
 ## Summary
 
