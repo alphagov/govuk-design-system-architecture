@@ -2,7 +2,7 @@
 
 **Closing date:** 2018-03-27
 
-**Status:** Proposed
+**Status:** Accepted
 
 ## Contents
 - [Summary](#summary)
