@@ -1,6 +1,6 @@
 # GOVUK Prototype Extensions
 
-**Closing date:** 2018-10-05
+**Closing date:** 2018-10-12
 
 **Status:** proposed
 
