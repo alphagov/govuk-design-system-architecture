@@ -6,7 +6,7 @@
 
 ## Context
 
-We implemented the [002 Proposal](https://github.com/alphagov/govuk-design-system-architecture/blob/master/proposals/001-publish-one-npm-package-instead-of-multiple-npm-packages.md) in https://github.com/alphagov/govuk-frontend/pull/680
+We implemented the [002 Proposal](https://github.com/alphagov/govuk-design-system-architecture/blob/master/proposals/002-publish-one-npm-package-instead-of-multiple-npm-packages.md) in https://github.com/alphagov/govuk-frontend/pull/680
 
 We have then restructured the code base in https://github.com/alphagov/govuk-frontend/pull/693
 
