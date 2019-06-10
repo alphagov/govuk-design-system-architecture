@@ -1,6 +1,6 @@
 # Namespace GOV.UK Frontend Nunjucks and Sass using a nested folder structure
 
-**Closing date:** 2019-06-07
+**Closing date:** 2019-06-12
 
 **Status:** proposed
 
