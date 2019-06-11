@@ -2,7 +2,7 @@
 
 **Closing date:** 2019-06-11
 
-**Status:** proposed
+**Status:** accepted
 
 ## Summary
 
@@ -41,9 +41,9 @@ This [happened on GOV.UK](https://github.com/alphagov/collections/pull/1042), re
 
 ---
 
-Not all components are not initialised in this way. The JavaScript for the button component, for example, sets up event listeners against the `scope` (usually `document`).
+Not all components are initialised in this way. The JavaScript for the button component, for example, sets up event listeners against the `scope` (usually `document`).
 
-This is inconsistent, and means that some components have a higher chance of conflicting as they e.g. affect anything with `role=”button”`
+This is inconsistent, and means that some components have a higher chance of conflicting as they e.g. affect anything with `role="button"`
 
 ## Proposal
 
