@@ -2,7 +2,7 @@
 
 **Closing date:** 2019-06-12
 
-**Status:** proposed
+**Status:** accepted
 
 ## Summary
 
