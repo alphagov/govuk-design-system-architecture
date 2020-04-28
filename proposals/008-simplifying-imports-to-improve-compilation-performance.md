@@ -65,7 +65,7 @@ If you selectively import individual files from core or overrides, you’ll need
 @import "govuk/tools/all";
 @import "govuk/helpers/all";
 
-@import “core/typography”;
+@import "core/typography";
 ```
 
 We’ll continue to import the settings, helpers and tools layers from files within the objects layer, so that they can act as single entry points that can be used in contexts such as React.
