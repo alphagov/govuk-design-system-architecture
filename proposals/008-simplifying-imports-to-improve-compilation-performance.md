@@ -2,7 +2,7 @@
 
 **Closing date:** 1 May 2020
 
-**Status:** Proposed
+**Status:** Accepted
 
 ## Summary
 
