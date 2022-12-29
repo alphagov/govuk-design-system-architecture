@@ -2,19 +2,38 @@
 <!-- The title should be a short present tense imperative phrase, less than 50
      characters, like a git commit message. -->
 
+## Decision
+
+<!-- An overview of the decision made. -->
+
 **Date:** <!-- YYYY-MM-DD -->
 
 **Status:** <!-- proposed, accepted, rejected, deprecated, superseded -->
 
-## Context
+## Rationale
 
-<!-- What is the issue that we're seeing that is motivating this decision or
-     change. -->
+<!-- The reason for the decision and any comments or disagreements cited. -->
 
-## Decision
+## Risks and constraints
 
-<!-- What is the change that we're actually proposing or doing. -->
+<!-- Any accepted risks associated with the decision. -->
 
-## Consequences
+## Alternatives considered
 
-<!-- What becomes easier or more difficult to do because of this change. -->
+<!-- Other options discussed but decided against. -->
+
+## Implications
+
+<!-- Impacts of this decision. -->
+
+## Contributors
+
+<!-- Who made this decision. -->
+
+## Associated issues and pull requests (PRs)
+
+<!-- Add links to any related GitHub issues and / or PRs. -->
+
+## Outcomes
+
+<!-- Note any outcomes or consequences of the decision . -->
