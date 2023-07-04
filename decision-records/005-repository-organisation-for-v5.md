@@ -2,7 +2,7 @@
 
 **Date:** 2023-04-21
 
-**Status:** accepted
+**Status:** Accepted
 
 ## Decision
 

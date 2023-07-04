@@ -4,7 +4,7 @@
 
 **Date:** <!-- YYYY-MM-DD -->
 
-**Status:** <!-- proposed, accepted, rejected, deprecated, superseded -->
+**Status:** <!-- Proposed, Accepted, Rejected, Deprecated, Superseded -->
 
 ## Decision
 
