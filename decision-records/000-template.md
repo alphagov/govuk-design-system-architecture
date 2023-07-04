@@ -1,14 +1,14 @@
-# Decision Record Title
+# [Decision Title]
 <!-- The title should be a short present tense imperative phrase, less than 50
      characters, like a git commit message. -->
-
-## Decision
-
-<!-- An overview of the decision made. -->
 
 **Date:** <!-- YYYY-MM-DD -->
 
 **Status:** <!-- proposed, accepted, rejected, deprecated, superseded -->
+
+## Decision
+
+<!-- An overview of the decision made. -->
 
 ## Rationale
 

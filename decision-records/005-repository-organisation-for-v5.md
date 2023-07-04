@@ -1,6 +1,8 @@
 # Restructure govuk-frontend repository for v5
-<!-- The title should be a short present tense imperative phrase, less than 50
-     characters, like a git commit message. -->
+
+**Date:** 2023-04-21
+
+**Status:** accepted
 
 ## Decision
 
@@ -46,10 +48,6 @@ govuk-frontend                // Repository root
 ├── src                       // Contains symlinks to new source file locations
 └── package.json              // Workspaces configuration and top-level dependencies
 ```
-
-**Date:** 2023-04-21<!-- YYYY-MM-DD -->
-
-**Status:** accepted<!-- proposed, accepted, rejected, deprecated, superseded -->
 
 ## Rationale
 
