@@ -2,7 +2,11 @@
 
 **Date:** 2018-05-16
 
-**Status:** Accepted
+**Status:** Superseded by [006 - JavaScript browser compatibility](https://github.com/alphagov/govuk-design-system-architecture/blob/main/decision-records/006-javascript-compatibility.md)
+
+## Note
+
+polyfill.io was reported as compromised on 25th June 2024 and we are no longer recommending it as a polyfilling service. Additionally, we have removed the polyfills we created with it from govuk-frontend v5+.
 
 ## Context
 
@@ -42,11 +46,13 @@ Any polyfills included in GOV.UK Frontend will be tested to work in supported br
 - Polyfills are widely maintained by the industry
 
 ### Disadvantages
+
 - There are risks modifying globals or native object prototypes
   - https://www.w3.org/2001/tag/doc/polyfills/#always-encapsulate
   - http://perfectionkills.com/whats-wrong-with-extending-the-dom/
 - We cannot be sure if our polyfills work with other third party code
 
 ## References
+
 - [Polyfills and the evolution of the Web](https://www.w3.org/2001/tag/doc/polyfills/)
 - [Polyfill approach discussion on GitHub](https://github.com/alphagov/govuk-frontend/issues/676)
